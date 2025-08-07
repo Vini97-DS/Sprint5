@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/Users/vinicius.araujo/Desktop/Sprint5- Triple10/.venv/bin/python3.13" "$0" "$@"
-' '''
+#!/Users/vinicius.araujo/Desktop/Sprint5/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
